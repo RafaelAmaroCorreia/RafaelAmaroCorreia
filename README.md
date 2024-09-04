@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello! I'm Rafael, a Computer Engineering student exploring the domains of data analysis, programming, and technology in Python, JavaScript, SQL, and much more."</h2>
 
 ###
 
